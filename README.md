@@ -1,5 +1,9 @@
 ### BRIEF SET UP
 
+## DB Diagram Link
+https://dbdiagram.io/d/Titans-Class-DB-66de9c22bc6a4b5bb59caaba
+
+
 one to one -> student one - one student profile
 one to many -> one student - many guardian
 many to many -> many students - many units
